@@ -11,7 +11,7 @@
   <img align="center" alt="Iza-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg">
   <img align="center" alt="Iza-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Iza-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-  <img align="right" alt="Iza-gif" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/836924830846681100/966164541513801767/gif_fofo.gif">
+  <img align="right" alt="Iza-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/836924830846681100/966381711199961189/Design_sem_nome.gif">
 </div>
   
 ##  
