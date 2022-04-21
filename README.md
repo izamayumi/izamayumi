@@ -1,4 +1,4 @@
-### Oiê! Eu sou a Izadora 😊✨
+### 🐸🍄 Oiê! Eu sou a Izadora 😊✨
 
 <div>
   <a href="https://github.com/izamayumi">
