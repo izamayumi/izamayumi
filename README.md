@@ -1,4 +1,9 @@
-### 🐸🍄 Oiê! Eu sou a Izadora 😊✨
+### 🌈🐸 Oiê! Eu sou a Izadora 😊✨
+
+ Mas pode me chamar só de Iza. Tenho 17 anos e estou me graduando em Ciência da Computação na Universidade Vila Velha, ES.  
+Tenho foco em ser uma engenheira e desenvolvedora front-end e aperfeiçoar as minhas habilidades em UI/UX design. Agora que tive a chance de imergir com tudo nesse mundo maravilhoso, venho sempre criando e aprendendo alguma coisinha nova, por menor que ela seja 😁
+
+No meu tempo livre gosto de jogar e assistir jogos de basquete (LeBron no coração 💛💜), amo desenhar (✏️), tocar ukulele (🎸), jogar video game (🎮), curtir uma boa música (🎵) e sou uma grande fã do Tarantino (🍿).
 
 <div>
   <a href="https://github.com/izamayumi">
