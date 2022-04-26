@@ -27,7 +27,7 @@ No meu tempo livre gosto de jogar e assistir jogos de basquete (LeBron no coraç
   <a href="https://www.instagram.com/iza.goto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/izadora-mayumi-a94276238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:izadorabomfim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/izadora_mayumi?si=75b0bb15681e4b5a" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+
 
 ![Snake animation](https://github.com/izamayumi/izamayumi/blob/output/github-contribution-grid-snake.svg)
 
