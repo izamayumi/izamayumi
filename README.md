@@ -3,8 +3,6 @@
  Mas pode me chamar só de Iza. Tenho 17 anos e estou me graduando em Ciência da Computação na Universidade Vila Velha, ES.  
 Tenho foco em ser uma desenvolvedora front-end e aperfeiçoar as minhas habilidades em UI/UX design. Agora que tive a chance de imergir com tudo nesse mundo maravilhoso, venho sempre criando e aprendendo alguma coisinha nova 😁
 
-No meu tempo livre gosto de jogar e assistir jogos de basquete (LeBron no coração 💛💜), amo desenhar (✏️), tocar ukulele (🎸), jogar video game (🎮), curtir uma boa música (🎵) e sou uma grande fã do Tarantino (🍿).
-
 <div>
   <a href="https://github.com/izamayumi">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=izamayumi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
