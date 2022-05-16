@@ -16,7 +16,7 @@ Tenho foco em ser uma desenvolvedora front-end e aperfeiçoar as minhas habilida
   <img align="right" alt="Iza-gif" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/836924830846681100/966381711199961189/Design_sem_nome.gif">
 </div>
   
-##  
+# 
   
 <div>
   <a href="https://www.instagram.com/iza.goto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
