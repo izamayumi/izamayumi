@@ -1,7 +1,7 @@
 ### 🌈🐸 Oiê! Eu sou a Izadora 😊✨
 
  Mas pode me chamar só de Iza. Tenho 17 anos e estou me graduando em Ciência da Computação na Universidade Vila Velha, ES.  
-Tenho foco em ser uma desenvolvedora front-end e aperfeiçoar as minhas habilidades em UI/UX design. Agora que tive a chance de imergir com tudo nesse mundo maravilhoso, venho sempre criando e aprendendo alguma coisinha nova 😁
+Tenho foco em ser uma desenvolvedora front-end e aperfeiçoar as minhas habilidades em UI/UX design😁
 
 <div>
   <a href="https://github.com/izamayumi">
