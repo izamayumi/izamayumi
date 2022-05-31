@@ -21,7 +21,6 @@ Tenho foco em ser uma desenvolvedora front-end e aperfeiçoar as minhas habilida
 <div>
   <a href="https://www.instagram.com/iza.goto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/izadora-mayumi-a94276238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:izadorabomfim@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
 ![Snake animation](https://github.com/izamayumi/izamayumi/blob/output/github-contribution-grid-snake.svg)
