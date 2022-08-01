@@ -1,6 +1,6 @@
 ### 🌈🐸 Oiê! Eu sou a Izadora 😊✨
 
- Mas pode me chamar só de Iza. Tenho 17 anos e estou me graduando em Ciência da Computação na Universidade Vila Velha, ES.  
+ Mas pode me chamar só de Iza. Tenho 17 anos e estou me graduando em Design na Universidade Vila Velha, ES.  
 Tenho foco em ser uma desenvolvedora front-end e aperfeiçoar as minhas habilidades em UI/UX design😁
 
 <div>
